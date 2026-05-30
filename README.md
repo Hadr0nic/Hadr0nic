@@ -4,7 +4,7 @@ Computational Scientist
 
 M.Sc. Physics (Complex Systems), Isfahan University of Technology | Thesis: "Analysis of Neuronal Avalanches in Resting-State Brain Activity"
 
-Interests
+## Interests
 
 • Complex Systems
 • Computational Neuroscience
