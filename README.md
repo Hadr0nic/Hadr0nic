@@ -1,16 +1,18 @@
 # Alireza Fouladgar
+
 Computational Scientist
 
 M.Sc. Physics (Complex Systems), Isfahan University of Technology
 Thesis: Analysis of Neuronal Avalanches in Resting-State Brain Activity
 
-## Interests
-- Complex Systems
-- Computational Neuroscience
-- Network Science
-- Scientific Computing
-- Backend Systems
-- Optimization
+Interests
+
+• Complex Systems
+• Computational Neuroscience
+• Network Science
+• Scientific Computing
+• Backend Systems
+• Optimization
 
 ## Featured Projects
 
