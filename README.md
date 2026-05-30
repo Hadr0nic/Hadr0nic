@@ -1,4 +1,4 @@
-# Alireza Fouladgar
+Alireza Fouladgar
 
 Computational Scientist
 
